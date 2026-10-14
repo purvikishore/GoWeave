@@ -1,0 +1,6 @@
+{
+  "name": "GoWeave",
+  "description": "AI-powered multimodal transportation platform weaving bus, metro, auto, cab, and walking routes into one seamless journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
